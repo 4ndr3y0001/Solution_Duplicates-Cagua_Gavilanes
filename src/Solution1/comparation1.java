@@ -5,7 +5,7 @@ import java.util.Random;
 public class comparation1 {
 
     public static void main(String[] args) {
-        int[] data = new int[100];
+        int[] data = new int[100];// 10000/100000/1000000
         Random random = new Random();
 
 

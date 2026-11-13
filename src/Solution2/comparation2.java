@@ -7,7 +7,7 @@ import java.util.Set;
 public class comparation2 {
     public static void main(String[] args) {
 
-        int[] data = new int[100];
+        int[] data = new int[100];// 10000/100000/1000000
         Random random = new Random();
         for (int i = 0; i < data.length; i++) {
             data[i] = random.nextInt(10) + 1;
